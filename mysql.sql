@@ -1,0 +1,1 @@
+	CREATE TABLE `test`.`user_test` ( `mi_01` INT NOT NULL AUTO_INCREMENT COMMENT 'ID' , `mi_02` TEXT NOT NULL COMMENT '使用者名稱' , `mi_03` TEXT NOT NULL COMMENT '密碼' , `mi_04` DATE NOT NULL COMMENT '帳戶建立時間' , PRIMARY KEY (`mi_01`)) ENGINE = InnoDB; 
